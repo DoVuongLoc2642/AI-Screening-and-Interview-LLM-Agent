@@ -93,6 +93,13 @@ The Project will have these fundamental features:
 
 # Demo
 
+Demo 1: 
+[Complete Process](https://demo-smartscreenai.s3.ap-southeast-2.amazonaws.com/complete-process_demo.mp4)
 
+Demo 2: 
+[Not passing the Interview Round](https://demo-smartscreenai.s3.ap-southeast-2.amazonaws.com/demo1_not-passing-interview-round.mp4)
+
+Demo 3: 
+[Incompatible Language](https://demo-smartscreenai.s3.ap-southeast-2.amazonaws.com/demo2_not-same-language.mp4)
 
 
