@@ -1,0 +1,9 @@
+streamlit==1.30.0
+PyPDF2
+google.generativeai
+python-dotenv
+langdetect
+logging
+nltk
+numpy
+fpdf
